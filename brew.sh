@@ -37,6 +37,9 @@ packages=(
     "pylint"
     "black"
     "node"
+    "poetry"
+    "vim"
+    
 )
 
 # Loop over the array to install each application.
@@ -75,19 +78,22 @@ $(brew --prefix)/bin/npm install --global prettier
 
 # Define an array of applications to install using Homebrew Cask.
 apps=(
-    "google-chrome"
     "firefox"
-    "brave-browser"
     "sublime-text"
     "visual-studio-code"
-    "virtualbox"
-    "spotify"
-    "discord"
-    "google-drive"
     "gimp"
-    "vlc"
-    "rectangle"
     "postman"
+    "iterm2"
+    "github"
+    "jupyterlab"
+    "slack"
+    "notion"
+    "figma"
+    "bitwarden"
+    "microsoft-auto-update"
+    "microsoft-office"
+    
+    
 )
 
 # Loop over the array to install each application.
