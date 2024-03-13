@@ -92,6 +92,7 @@ apps=(
     "bitwarden"
     "microsoft-auto-update"
     "microsoft-office"
+    "grammarly-desktop"
     
     
 )
